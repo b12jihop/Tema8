@@ -6,11 +6,11 @@ title: |
 author: "MVAP, MVAP2, MVAP3"
 date: "`r Sys.Date()`"
 output:
-  # html_document:
-  #   toc: true
-  #   toc_float: true
-    github_document:
-      html_preview: false
+   html_document:
+     toc: true
+     toc_float: true
+    # github_document:
+    #   html_preview: false
 bibliography: ["zotero.bib", "libraries.bib"]
 link-citations: true
 ---
